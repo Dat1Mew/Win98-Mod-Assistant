@@ -1,6 +1,4 @@
-# Win98-Mod-Assistant
-
-- INSTALLATION - 
+# - INSTALLATION - 
 1. Go to Mod Assistant and open the "Options tab"
 2. Click "Export Template" then "Open Folder"
 3. Drag and Drop folder into "Themes" folder
